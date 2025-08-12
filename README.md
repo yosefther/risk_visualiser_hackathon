@@ -98,5 +98,5 @@ Disclaimer: This is just for a hackathon so don’t take it seriously or as fina
 
 
 
-Disclaimer: This is just for a hackathon, so don’t take it seriously or as financial advice. Most of it is bullshit, and I honestly have no idea what I’m doing.
+# Disclaimer: This is just for a hackathon, so don’t take it seriously or as financial advice. Most of it is bullshit, and I honestly have no idea what I’m doing.
 
