@@ -1,0 +1,5 @@
+.devenv/
+.devenv.flake.nix
+stocks/__pycache__/
+stocks/src/my_portfolio_data/
+
